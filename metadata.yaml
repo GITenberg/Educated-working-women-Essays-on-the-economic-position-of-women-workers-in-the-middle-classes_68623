@@ -1,0 +1,42 @@
+_repo: Educated-working-women-Essays-on-the-economic-position-of-women-workers-in-the-middle-classes_68623
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Collet, Clara E. (Clara Elizabeth)
+    aliases:
+    - Collet, C. E. (Clara Elizabeth)
+    - Collet, Miss (Clara Elizabeth)
+    - Collet, Clara Elizabeth
+    birthdate: 1860
+    deathdate: 1948
+    gutenberg_agent_id: '54868'
+    url: http://www.gutenberg.org/2009/agents/54868
+    wikipedia: https://en.wikipedia.org/wiki/Clara_Collet
+description: ''
+gutenberg_issued: '2022-07-28'
+identifiers:
+  gutenberg: '68623'
+  lccn: 04003815
+language: en
+pgterms:marc904: https://archive.org/details/educatedworkingw00collrich
+pgterms:marc905: 20220419172118collet
+pgterms:marc906: '1902'
+pgterms:marc907: UK
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: UK :P. S. King & Son,1902.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HD'
+- !lcsh 'Women -- Employment'
+- !lcsh 'Women -- Education'
+- GITenberg
+tableOfContents: 'The economic position of educated working women -- Prospects of
+  marriage for women -- The expenditure of middle class working women -- The age limit
+  for women -- Mrs. Stetson''s economic ideal -- Through fifty years: the economic
+  progress of women.'
+title: 'Educated working women: Essays on the economic position of women workers in
+  the middle classes'
+url: http://www.gutenberg.org/ebooks/68623
