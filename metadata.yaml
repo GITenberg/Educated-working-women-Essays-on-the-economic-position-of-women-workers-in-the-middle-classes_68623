@@ -1,5 +1,8 @@
 _repo: Educated-working-women-Essays-on-the-economic-position-of-women-workers-in-the-middle-classes_68623
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68623-h/images/cover.jpg
 creator:
   author:
     agent_name: Collet, Clara E. (Clara Elizabeth)
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/54868
     wikipedia: https://en.wikipedia.org/wiki/Clara_Collet
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68623#Educated-working-women-Essays-on-the-economic-position-of-women-workers-in-the-middle-classes
 gutenberg_issued: '2022-07-28'
 identifiers:
   gutenberg: '68623'
